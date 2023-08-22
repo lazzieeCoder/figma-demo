@@ -1,0 +1,12 @@
+steps:-
+step1:-
+Fonts:-
+step2:-
+colors:-
+step:3
+icons and images export
+step4:-
+exporting fonts to html documents
+step 5:- html
+step 6:- css
+step 7:- crosscheck design
